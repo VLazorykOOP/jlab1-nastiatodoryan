@@ -3,6 +3,7 @@ import java.util.HashMap;
 import java.util.ArrayList;
 
 public class EqualSumRowsColumns {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
